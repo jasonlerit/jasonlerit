@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Jason, a passionate Fullstack Developer</h1>
+<h1 align="left">Hi 👋 I'm Jason, a passionate Fullstack Developer</h1>
 
 ###
 
